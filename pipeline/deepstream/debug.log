@@ -1,0 +1,39 @@
+
+==============================================================================
+[2026-10-15T19:48:44+00:00] run.debug.sh FAILED (attempt 1/4)
+------------------------------------------------------------------------------
+pipeline error:
+ERROR: from element /GstPipeline:pipeline0/GstDsNvUriSrcBin:dsnvurisrcbin0/GstURIDecodeBin:nvurisrc_bin_src_elem/GstFileSrc:source: "/root" is a directory.
+---
+ERROR: pipeline doesn't want to preroll.
+Failed to set pipeline to PAUSED.
+Implicit layer support has been deprecated
+INFO: [Implicit Engine Info]: layers num: 0
+Setting pipeline to NULL ...
+Freeing pipeline ...
+
+==============================================================================
+[2026-10-15T19:53:08+00:00] run.debug.sh FAILED (attempt 1/4)
+------------------------------------------------------------------------------
+pipeline error:
+ERROR: from element /GstPipeline:pipeline0/GstDsNvUriSrcBin:dsnvurisrcbin0/GstURIDecodeBin:nvurisrc_bin_src_elem/GstFileSrc:source: "/root" is a directory.
+---
+ERROR: pipeline doesn't want to preroll.
+Failed to set pipeline to PAUSED.
+Implicit layer support has been deprecated
+INFO: [Implicit Engine Info]: layers num: 0
+Setting pipeline to NULL ...
+Freeing pipeline ...
+
+==============================================================================
+[2026-10-15T20:14:45+00:00] run.debug.sh FAILED (attempt 1/4)
+------------------------------------------------------------------------------
+pipeline error:
+ERROR: from element /GstPipeline:pipeline0/GstDsNvUriSrcBin:dsnvurisrcbin0/GstURIDecodeBin:nvurisrc_bin_src_elem/GstFileSrc:source: "/root" is a directory.
+---
+ERROR: pipeline doesn't want to preroll.
+Failed to set pipeline to PAUSED.
+Implicit layer support has been deprecated
+INFO: [Implicit Engine Info]: layers num: 0
+Setting pipeline to NULL ...
+Freeing pipeline ...
